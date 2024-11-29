@@ -3,9 +3,9 @@ import { Theme } from 'tabby-core'
 
 @Injectable()
 class HypeTheme extends Theme {
-    name = 'Hype'
-    css = require('./theme.scss')
-    terminalBackground = '#010101'
+    name = 'Catppuccin Mocha'
+    css = require('./mocha.scss')
+    terminalBackground = '#11111b'
 }
 
 @NgModule({

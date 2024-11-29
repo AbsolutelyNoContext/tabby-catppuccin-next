@@ -1,12 +1,9 @@
-# Hype Theme
-
+# Catppuccin Theme
+> We used the hype theme as the basis to build this on top.
+> [This is the original](https://github.com/Eugeny/tabby-theme-hype)
 #### For the Tabby terminal
 
-This is a simple theme that mimicks the Hyper terminal. You can use this plugin as a base to build a theme of your own!
-
-![](http://imgur.com/download/1cEi7ef)
-
----
+# Installing
 
 ## Hacking
 
